@@ -1,1 +1,11 @@
+# Basic options
+title: RmA Digital Factory
+author: Roland Abr
+email: roland2abrahantes@yahoo.com
+description: A Place to Test Things
+github_username: roland2abrahantes
+
+
+# Build settings
+markdown: kramdown
 theme: minima
